@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Junior NLP Engineer with hands-on experience in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI. Specializing in Large Language Models (LLMs), RAG systems, Multi Agent and developing end-to-end AI solutions. Eager to contribute to impactful projects and grow within a dynamic AI-driven team.
+Passionate  NLP Engineer with hands-on experience in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI. Specializing in Large Language Models (LLMs), RAG systems, Multi Agent and developing end-to-end AI solutions. Eager to contribute to impactful projects and grow within a dynamic AI-driven team.
 
 
 ## 🌐 Socials:
